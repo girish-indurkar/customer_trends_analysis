@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Customer Trend Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -157,15 +156,8 @@ Static reports and presentations summarizing the key findings are available for 
 
 *   **View Reports**:
     Navigate to the `reports/` directory to view the generated PDF report (`Customer_Shopping_Behavior_Analysis.pdf`) and the PowerPoint presentation (`customer_trends_analysis.pptx`).
-## Project Workflow
-=======
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL%20Analytics-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Project-Complete-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
->>>>>>> 091283b42c60cd24e6d6d3827cc3dc265ff3686f
+## Project Workflow
 <img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/1bc7e87c-df09-482a-90e2-ac2d0b4a3c94" />
 
 ## Project Structure
@@ -200,5 +192,4 @@ Contributions are welcome! If you have suggestions for improvements, new feature
 6.  Open a Pull Request.
 
 ## License
-
-This project is licensed under the MIT License - see the LICENSE file for details (if applicable).
+This project is licensed under the MIT License - see the LICENSE file for details 
