@@ -165,19 +165,28 @@ Static reports and presentations summarizing the key findings are available for 
 The repository is organized into several directories, each serving a specific purpose:
 
 ```
-.
+customer_trends_analysis/
+│
 ├── data/
-│   └── customer_shopping_behavior.csv  # Raw customer shopping behavior data
-├── reports/
-│   ├── Customer_Shopping_Behavior_Analysis.pdf # Detailed analysis report
-│   └── customer_trends_analysis.pptx     # Presentation of key findings
-├── dashboard/
-│   └── customer trend analysis.pbix      # Interactive Power BI dashboard file
+│   └── customer_shopping_behavior.csv
+│
 ├── notebooks/
-│   └── data_cleaning_and_load.ipynb    # Jupyter notebook for data cleaning and EDA
+│   └── data_cleaning_and_load.ipynb
+│
 ├── SQL/
-│   └── business_insights_queries.sql   # SQL queries for business insights
-└── README.md                           # Project overview and documentation
+│   └── business_insights_queries.sql
+│
+├── dashboards/
+│   └── customer_behavior_dashboard.pbix
+│
+├── reports/
+│   ├── Business_Problem.pdf
+│   ├── Analysis_Report.pdf
+│   └── Presentation.pptx
+│
+├── README.md
+├── License.txt
+└── requirements.txt   
 ```
 
 ## Contributing
