@@ -16,6 +16,7 @@ This project focuses on analyzing customer shopping behavior to identify key tre
 - [Project Overview](#project-overview)
 - [Data Summary](#dataset-summary)
 - [Features](#features)
+- [Business Impact Delivered](#business-impact-delivered)
 - [Tech Stack and Dependencies](#tech-stack-and-dependencies)
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
@@ -28,6 +29,7 @@ This project focuses on analyzing customer shopping behavior to identify key tre
   - [Reviewing Reports](#4-reviewing-reports)
 - [Project Workflow](#project-workflow)
 - [Project Structure](#project-structure)
+- [Visualizations] (#visualizations)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -71,7 +73,13 @@ Missing ratings were imputed using the median rating per product category
 *   **Interactive Dashboarding**: Develops an interactive dashboard using Microsoft Power BI for dynamic visualization and exploration of customer trends.
 *   **Static Reporting**: Generates static reports (PDF) and presentations (PPTX) to summarize key findings, recommendations, and project outcomes.
 *   **Comprehensive Documentation**: Provides a detailed `README.md` for project overview and usage instructions.
-
+  
+##  Business Impact Delivered
+* **Customer segmentation** by spending patterns (High/Medium/Low value)
+* **Revenue insights** - Top products/categories by sales contribution  
+* **Peak shopping hours** analysis for inventory optimization
+* **Churn prediction** factors identification
+  
 ## Tech Stack and Dependencies
 
 This project leverages a combination of programming languages and specialized tools for data analysis and visualization.
@@ -188,6 +196,7 @@ customer_trends_analysis/
 ├── License.txt
 └── requirements.txt   
 ```
+## Visualizations
 
 ## Contributing
 
