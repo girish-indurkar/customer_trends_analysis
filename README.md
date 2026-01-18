@@ -166,7 +166,9 @@ Static reports and presentations summarizing the key findings are available for 
     Navigate to the `reports/` directory to view the generated PDF report (`Customer_Shopping_Behavior_Analysis.pdf`) and the PowerPoint presentation (`customer_trends_analysis.pptx`).
 
 ## Project Workflow
-<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/1bc7e87c-df09-482a-90e2-ac2d0b4a3c94" />
+<p align="center">
+  <img src="./assets/workflow.png" width="900" alt="Project Workflow">
+</p>
 
 ## Project Structure
 
@@ -199,11 +201,28 @@ customer_trends_analysis/
 ---
 
 ## Visualizations
-![Revenue by Category]./assets/revenue-by-category.png)
-![Customer Segments](<img width="1297" height="706" alt="Screenshot 2026-01-18 224332" src="https://github.com/user-attachments/assets/a46b65fb-7735-48b3-a45a-801a9ad2a8f8" />
-)
-![Age Group Analysis](<img width="1293" height="703" alt="Screenshot 2026-01-18 224511" src="https://github.com/user-attachments/assets/6ec211b4-6c96-411b-be48-fefd4457d601" />
-)
+
+### 1) Revenue by Category
+<p align="center">
+  <img src="./assets/ss-01-revenue-by-category.png" width="900" alt="Revenue by Category">
+</p>
+<p align="center"><i>Category-wise revenue distribution to identify top-performing product lines.</i></p>
+
+---
+
+### 2) Customer Segments (Subscribers vs Non-Subscribers)
+<p align="center">
+  <img src="./assets/ss-02-customer-segments.png" width="900" alt="Customer Segments">
+</p>
+<p align="center"><i>Segmentation view showing subscriber vs non-subscriber customer split.</i></p>
+
+---
+
+### 3) Age Group Analysis
+<p align="center">
+  <img src="./assets/ss-03-age-group-analysis.png" width="900" alt="Age Group Analysis">
+</p>
+<p align="center"><i>Age-group performance comparison for campaign targeting and personalization.</i></p>
 
 ---
 ## Contributing
