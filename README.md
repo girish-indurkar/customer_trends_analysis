@@ -1,4 +1,4 @@
-
+  
 # Customer Trend Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
@@ -29,7 +29,7 @@ This project focuses on analyzing customer shopping behavior to identify key tre
   - [Reviewing Reports](#4-reviewing-reports)
 - [Project Workflow](#project-workflow)
 - [Project Structure](#project-structure)
-- [Visualizations] (#visualizations)
+- [Visualizations](#visualizations)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -196,8 +196,16 @@ customer_trends_analysis/
 ├── License.txt
 └── requirements.txt   
 ```
-## Visualizations
+---
 
+## Visualizations
+![Revenue by Category]./assets/revenue-by-category.png)
+![Customer Segments](<img width="1297" height="706" alt="Screenshot 2026-01-18 224332" src="https://github.com/user-attachments/assets/a46b65fb-7735-48b3-a45a-801a9ad2a8f8" />
+)
+![Age Group Analysis](<img width="1293" height="703" alt="Screenshot 2026-01-18 224511" src="https://github.com/user-attachments/assets/6ec211b4-6c96-411b-be48-fefd4457d601" />
+)
+
+---
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please follow these steps:
