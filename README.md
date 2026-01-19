@@ -173,30 +173,28 @@ Static reports and presentations summarizing the key findings are available for 
 ## Project Structure
 
 The repository is organized into several directories, each serving a specific purpose:
-
 ```
-customer_trends_analysis/
-│
+.
 ├── data/
-│   └── customer_shopping_behavior.csv
-│
+│   └── customer_shopping_behavior.csv     
 ├── notebooks/
-│   └── data_cleaning_and_load.ipynb
-│
+│   └── data_cleaning_and_load.ipynb        
 ├── SQL/
-│   └── business_insights_queries.sql
-│
-├── dashboards/
-│   └── customer_behavior_dashboard.pbix
-│
+│   └── business_insights_queries.sql       
+├── dashboard/
+│   └── customer trend analysis.pbix       
 ├── reports/
-│   ├── Business_Problem.pdf
-│   ├── Analysis_Report.pdf
-│   └── Presentation.pptx
-│
-├── README.md
-├── License.txt
-└── requirements.txt   
+│   ├── Business Problem Document.pdf       
+│   ├── Analysis_Report.pdf                 
+│   └── Presentation.pptx                   
+├── assets/
+│   ├── workflow.png                        
+│   ├── ss-01-revenue-by-category.png       
+│   ├── ss-02-customer-segments.png         
+│   └── ss-03-age-group-analysis.png       
+├── requirements.txt                       
+├── License.txt                             
+└── README.md                               
 ```
 ---
 
